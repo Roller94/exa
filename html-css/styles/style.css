@@ -1,0 +1,42 @@
+
+nav ul {
+	-webkit-padding-start: 0px;
+}
+
+nav ul li {
+	display: inline;
+}
+
+nav ul li a {
+	color: #04659D;
+}
+
+nav > ul > li:nth-child(1) > a {
+	text-decoration: none;
+	color: black;
+}
+
+footer {	
+	text-align: center;
+}
+
+h3 {
+	color: #007AEC;
+}
+
+h4 {
+	color: green;
+}
+
+span > span, h5 {
+	color: red;
+}
+
+span .inline {
+	text-decoration: none;	
+}
+
+.cuadro {
+	border-style: solid;
+	background-color: #FBA267;
+}
